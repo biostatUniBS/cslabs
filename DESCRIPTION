@@ -1,0 +1,13 @@
+Package: cslabs
+Title: Computational Statistics Labs
+Version: 0.7.7
+Description: Datasets and functions that can be used for data analysis practice, homework and projects in computational statistics course. 26 datasets are available for case studies in data visualization, statistical inference, modeling, linear regression, data wrangling and machine learning.
+Author: Stefano Calza,Rafael A. Irizarry
+Maintainer: Stefano Calza <stefano.calza@unibs.it>
+Depends:
+    R (>= 3.1.2)
+Imports: ggplot2
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
